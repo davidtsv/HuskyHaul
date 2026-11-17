@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/davidtsv/Desktop/HuskyHaul/pages/index.js"],"sourcesContent":["import styles from \"../styles/Home.module.css\";\n\nexport default function Home() {\n  return (\n    <main className={styles.hero}>\n      <p className={styles.lead}>\n        Need something from home? Someone's parents are already coming.\n      </p>\n    </main>\n  );\n}"],"names":["Home","className","hero","lead"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,qKAAC;QAAKC,WAAW,8HAAM,CAACC,IAAI;kBAC1B,cAAA,qKAAC;YAAED,WAAW,8HAAM,CAACE,IAAI;sBAAE;;;;;;;;;;;AAKjC"}},
+    {"offset": {"line": 50, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/styles/Home.module.css [ssr] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"title\": \"Home-module__g21JLG__title\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA"}}]
+}

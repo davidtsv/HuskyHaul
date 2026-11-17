@@ -1,0 +1,64 @@
+/* [project]/styles/globals.css [client] (css) */
+
+
+/* [project]/styles/Header.module.css [client] (css) */
+.Header-module__vcZAwq__header {
+  z-index: 10;
+  background: #fff;
+  border-bottom: 2px solid #e6e2de;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+  position: sticky;
+  top: 0;
+}
+
+.Header-module__vcZAwq__logo {
+  color: inherit;
+  font-family: Plus_Jakarta_Sans;
+  font-size: 2.4rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.Header-module__vcZAwq__logo span {
+  color: #c8102e;
+}
+
+.Header-module__vcZAwq__nav {
+  color: inherit;
+  align-items: center;
+  gap: 65px;
+  text-decoration: none;
+  display: flex;
+}
+
+.Header-module__vcZAwq__nav a {
+  letter-spacing: .02em;
+  text-transform: uppercase;
+  color: inherit;
+  font-family: Helvetica Neue, Arial, sans-serif;
+  font-size: 1.02rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.Header-module__vcZAwq__nav a:hover {
+  color: #c8102e;
+}
+
+.Header-module__vcZAwq__nav a.Header-module__vcZAwq__join {
+  color: #fff;
+  background: #c8102e;
+  border-radius: 999px;
+  padding: 10px 22px;
+  font-weight: 600;
+}
+
+.Header-module__vcZAwq__nav a.Header-module__vcZAwq__join:hover {
+  color: #fff;
+  background: #ae0d28;
+}
+
+/*# sourceMappingURL=styles_05ryi0yu8vp3o._.css.map*/

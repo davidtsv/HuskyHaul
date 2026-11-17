@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///Users/davidtsv/Desktop/HuskyHaul/pages/index.js"],"sourcesContent":["import styles from \"../styles/Home.module.css\";\n\nexport default function Home() {\n  return (\n    <main className={styles.hero}>\n      <h1 className={styles.title}>\n        Husky<span>Haul</span>\n      </h1>\n      <p className={styles.lead}>\n        Need something from home? Someone's parents are already coming.\n      </p>\n      <a href=\"#signup\" className=\"btn\">Join the waitlist</a>\n    </main>\n  );\n}"],"names":["Home","className","styles","hero","title","lead","href"],"mappings":";;;;;;;;;;;;AAEe,SAASA;IACtB,qBACE,qKAAC;QAAKC,WAAWC,OAAOC,IAAI;;0BAC1B,qKAAC;gBAAGF,WAAWC,OAAOE,KAAK;;oBAAE;kCACtB,qKAAC;kCAAK;;;;;;;;;;;;0BAEb,qKAAC;gBAAEH,WAAWC,OAAOG,IAAI;0BAAE;;;;;;0BAG3B,qKAAC;gBAAEC,MAAK;gBAAUL,WAAU;0BAAM;;;;;;;;;;;;AAGxC"}}]
+}

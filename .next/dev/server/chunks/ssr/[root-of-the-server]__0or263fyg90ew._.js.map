@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///Users/davidtsv/Desktop/HuskyHaul/pages/index.js"],"sourcesContent":["import styles from \"../styles/Home.module.css\";\n\nexport default function Home() {\n  return (\n    <main className={styles.hero}>\n      <h1 className={styles.title}>\n        Husky<span>Haul</span>\n      </h1>\n      <p className={styles.lead}>\n        Need something from home? Someone's parents are already coming.\n      </p>\n      <a href=\"#signup\" className=\"btn\">Join the waitlist</a>\n    </main>\n  );\n}"],"names":["Home","className","hero","title","lead","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,qKAAC;QAAKC,WAAW,8HAAM,CAACC,IAAI;;0BAC1B,qKAAC;gBAAGD,WAAW,8HAAM,CAACE,KAAK;;oBAAE;kCACtB,qKAAC;kCAAK;;;;;;;;;;;;0BAEb,qKAAC;gBAAEF,WAAW,8HAAM,CAACG,IAAI;0BAAE;;;;;;0BAG3B,qKAAC;gBAAEC,MAAK;gBAAUJ,WAAU;0BAAM;;;;;;;;;;;;AAGxC"}},
+    {"offset": {"line": 84, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/styles/Home.module.css [ssr] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"title\": \"Home-module__g21JLG__title\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA"}}]
+}
